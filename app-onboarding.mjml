@@ -1,0 +1,103 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="'Lato', 'Helvetica', 'Arial', sans-serif"></mj-all>
+      <mj-text color="#515151"></mj-text>
+    </mj-attributes>
+    <mj-font href="https://fonts.googleapis.com/css?family=Lato:normal,italic,bold&display=swap" name="Lato"></mj-font>
+  </mj-head>
+  <mj-body background-color="#f8f8f8">
+    <mj-section background-color="#4CAF50" padding-bottom="24px" padding-left="48px" padding-right="48px" padding-top="48px" padding="48px">
+      <mj-column padding="0">
+        <mj-image align="left" padding="0px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/a017596a-96b7-c986-3fdc-5b67ebee4fc9.png" width="68px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#4CAF50" padding-bottom="48px" padding-left="48px" padding-right="48px" padding-top="24px" padding="48px">
+      <mj-column padding="0">
+        <mj-text color="rgba(255,255,255,0.5)" font-size="14px" line-height="40px" padding="0px">
+          NEW USER GUIDE
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-text color="#ffffff" font-size="38px" line-height="40px" padding="0px">
+          <strong>Let's guide you <br />through a smooth start</strong>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image fluid-on-mobile="true" padding="0px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/3eee56c8-7b3c-8c8e-1480-5d796e54d4a5.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="24px" padding-left="48px" padding-right="48px" padding-top="48px" padding="48px">
+      <mj-column padding="0">
+        <mj-text font-size="20px" line-height="40px" padding="0px">
+          Welcome to our platform! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="24px" padding-left="48px" padding-right="48px" padding-top="24px" padding="48px">
+      <mj-column padding="0">
+        <mj-text color="#000000" font-size="24px" line-height="40px" padding="0px">
+          <strong>Explore our features and get started</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text font-size="20px" line-height="40px" padding="0px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+        </mj-text>
+        <mj-spacer height="24px"></mj-spacer>
+        <mj-text color="#4CAF50" font-size="20px" line-height="40px" padding="0px">
+          <strong>Learn more</strong>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image align="center" padding="0px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/682b5dec-607f-9542-be0a-8a3952981a40.png" width="200px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="24px" padding-left="48px" padding-right="48px" padding-top="24px" padding="48px">
+      <mj-column padding="0">
+        <mj-image align="left" padding="0px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/b56404ac-ee6b-b5aa-9e4a-5912bb63b00d.png" width="220px"></mj-image>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-text color="#000000" font-size="24px" line-height="40px" padding="0px">
+          <strong>Discover our advanced tools</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text font-size="20px" line-height="40px" padding="0px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+        </mj-text>
+        <mj-spacer height="24px"></mj-spacer>
+        <mj-text color="#4CAF50" font-size="20px" line-height="40px" padding="0px">
+          <strong>Learn more</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F1F1F1" padding="48px">
+      <mj-column padding="0">
+        <mj-text font-size="16px" line-height="30px" padding="0px">
+          Ready to get started? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </mj-text>
+        <mj-spacer height="24px"></mj-spacer>
+        <mj-button background-color="#4CAF50" border-radius="32px" font-size="20px" line-height="40px" padding="0px" width="100%">
+          <strong>Set up now</strong>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1E1E2C" border-bottom="1px solid #2E2E3E" border-left="none" border-right="none" border-top="none" padding-bottom="20px" padding-left="48px" padding-right="48px" padding-top="20px" padding="48px">
+      <mj-column padding="0">
+        <mj-image align="left" padding-bottom="4px" padding-left="0px" padding-right="0px" padding-top="4px" padding="0px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/caf6d966-a995-51b2-e270-283c7b10a28a.png" width="28px"></mj-image>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-social align="right" font-size="15px" icon-size="46px" inner-padding="4px" mode="horizontal" padding="0px">
+          <mj-social-element src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/6ac64972-6707-411e-035c-4d9772b0c08b.png" alt="https://www.facebook.com/" border-radius="60px" href="https://www.facebook.com/" name="facebook-noshare"></mj-social-element>
+          <mj-social-element src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/aaa00eda-c54e-30fe-3dc1-b525662206a6.png" alt="https://www.google.com/" border-radius="60px" href="https://www.google.com/" name="google-noshare"></mj-social-element>
+          <mj-social-element src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/85baa555-6929-7482-932a-62b553fdfbfa.png" alt="https://www.twitter.com/" border-radius="60px" href="https://www.twitter.com/" name="twitter-noshare"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1E1E2C" padding-bottom="64px" padding-left="48px" padding-right="48px" padding-top="64px" padding="48px">
+      <mj-column padding="0">
+        <mj-text color="#fff" font-size="18px" line-height="30px" padding="0px">
+          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br /><br />Unsubscribe
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
